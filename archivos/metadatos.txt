@@ -1,0 +1,4 @@
+tabla1 id,apellido 10,10 apellido V,F
+tabla2 id,nombre 10,10 id F,V
+prueba id,nombre,dinero 10,10,10 id F,F,V
+largo entero,texto,boleano,fecha 20,20,20,20 entero F,F,F,F
